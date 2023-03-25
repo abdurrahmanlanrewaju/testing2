@@ -1,0 +1,22 @@
+---
+title: "testMarkdown"
+author: "Tanta"
+date: "2023-03-25"
+output: word_document
+---
+This is where you will put your text. Write your analysis
+
+```{r}
+getwd()
+```
+
+Let us read the data
+```{r}
+head(mtcars)
+```
+
+Another code is here
+```{r}
+tail(mtcars)
+```
+
